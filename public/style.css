@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif bold;
+    color: white;
+    background-image: url('./assets/login.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.center-div{
+    padding-top: 10%;
+}
+
+.btn.btn-success{
+    padding:.4em.8em;
+    color: black;
+}
+
+
+span{
+    font-weight: 800;
+}
+form{
+    padding: 0 2em;
+}
+
